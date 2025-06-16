@@ -12,3 +12,7 @@ Unirunner — це піксельна аркадна гра на Pygame, де т
 ## ▶️ Як запустити
 1. Встанови Python 3.10+
 2. Встанови Pygame:
+pip install pygame
+3. Запусти файл:
+python unicorn_game.py
+
