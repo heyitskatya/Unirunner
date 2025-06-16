@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# MacOS / Linux
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Pygame cache (якщо є)
+*.log
+
+# Images or gifs if not needed on GitHub
+*.png
+*.jpg
+*.jpeg
+*.gif
